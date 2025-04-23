@@ -6,4 +6,3 @@ My Grocery List
 - Butter
 - Sugar
 - Lemons
-Hello from the greeting branch!
