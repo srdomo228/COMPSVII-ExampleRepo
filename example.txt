@@ -1,8 +1,9 @@
 My Grocery List
 - Apples
 - Bananas
-- Potato Chips
+- Corn Dogs
 - Eggs
 - Butter
 - Sugar
 - Lemons
+- Hot Pockets
